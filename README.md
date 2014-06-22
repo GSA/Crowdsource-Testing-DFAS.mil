@@ -12,7 +12,7 @@ Agency: Defense and Accounting Service (DFAS)
 
 Application Name: DFAS.mil Web Site
 
-Test Cycle Dates: June XX, 2014 to June XX, 2014
+Test Cycle Dates: June 23, 2014 to June 30, 2014
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
@@ -22,7 +22,7 @@ If that is the case send me a mail and I will send you the documents.
 
 === Mobile Product Compatibility and Functional Testing 101 ===
 --------------------------
-http://www.digitalgov.gov/2013/11/21/mobile-product-compatability-and-functional-testing-101/
+https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functional-testing-101/
 
 This document gives some terms and insights into testing mobile applications.
 
@@ -30,20 +30,19 @@ This document gives some terms and insights into testing mobile applications.
 --------------------------
 (On the Google Drive)
 
-https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web
+https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
 
 This document contains all of the applications specifics required to complete this test cycle.
 
 === Directions for Completing a Test Case ===
 --------------------------
-https://drive.google.com/?utm_source=en&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&urp=https%3A%2F%2
-Fwww.google.com%2F#folders/0B2idn27Mp7VTRGdJREptQXJKLWc (On the Google Drive)
+https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
 
 This document gives instructions for completing the “Test Case Template”.
 
 === DFAS.mil Test Case 6/2014 ===
 --------------------------
-https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web
+https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
 
 (On the Google Drive)
 
@@ -51,7 +50,7 @@ This is the test case that you are to download, complete and email back to us.
 
 === Using Github ===
 --------------------------
-https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web
+https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
 
 (On the Google Drive)
 
